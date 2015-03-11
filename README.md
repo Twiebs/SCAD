@@ -1,6 +1,4 @@
-SCAD
+openSCAD models for 3D printing
 ====
-
-Personal repository for all of my openSCAD work
 Desings include:
-- Ultimate Vape Kit
+- Parametric half sized breadboard holder
